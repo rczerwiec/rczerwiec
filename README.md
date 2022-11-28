@@ -3,8 +3,8 @@
 # 🔭 My TechStack 
 [![My Skills](https://skillicons.dev/icons?i=html,js,css,react,nodejs,mongodb,redux)](https://skillicons.dev)
 
-# ⚡My Next Steps
-[![My Skills](https://skillicons.dev/icons?i=ts,java,spring,hibernate,flutter,nodejs,mysql)](https://skillicons.dev)
+# ⚡My RoadMap
+[![My Skills](https://skillicons.dev/icons?i=ts,java,spring,hibernate,flutter,mysql)](https://skillicons.dev)
 
 <!--
 **rczerwiec/rczerwiec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
