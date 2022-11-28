@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Radek, FullStack Developer from Poland
 
 # 🔭 My TechStack 
 [![My Skills](https://skillicons.dev/icons?i=html,js,css,react,nodejs,mongodb,redux)](https://skillicons.dev)
