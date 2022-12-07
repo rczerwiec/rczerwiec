@@ -4,7 +4,7 @@
 ![My Skills](https://skillicons.dev/icons?i=html,js,css,react,nodejs,mongodb,php,symfony)
 
 # 🤔 Currently Learning
-![My Skills](https://skillicons.dev/icons?i=redux,sass,ts)]
+![My Skills](https://skillicons.dev/icons?i=vue,redux,sass,ts)
 
 # ⚡My RoadMap
 ![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,flutter,mysql)
