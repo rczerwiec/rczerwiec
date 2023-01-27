@@ -1,13 +1,13 @@
 ### Hi there 👋 I'm Radek, FullStack Developer from Poland
 
 # 🔭 My TechStack 
-![My Skills](https://skillicons.dev/icons?i=html,js,css,react,nodejs,mongodb,redux)
+![My Skills](https://skillicons.dev/icons?i=html,js,ts,css,react,nodejs,express,mongodb,redux,docker)
 
 # 🤔 Currently Learning
-![My Skills](https://skillicons.dev/icons?i=vue,sass,ts,php,symfony)
+![My Skills](https://skillicons.dev/icons?i=sass,figma,nestjs,java,spring)
 
 # ⚡My RoadMap
-![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,flutter,mysql)
+![My Skills](https://skillicons.dev/icons?i=hibernate,flutter,mysql)
 <!--
 **rczerwiec/rczerwiec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
