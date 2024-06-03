@@ -1,4 +1,5 @@
-### Hi there 👋 I'm Radek, FullStack Developer from Poland
+### Hi there 👋 I'm Radek, currently work as IT Specialist.
+### I'm back to coding at may 2024 after almost 2 years of break so there may be a mess :D
 
 # 🔭 My TechStack 
 ![My Skills](https://skillicons.dev/icons?i=html,js,ts,css,react,nodejs,express,mongodb,redux,docker)
